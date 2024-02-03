@@ -39,10 +39,12 @@ function test(call, args, count, n) {
 
 ## 2
 1. What does this function do?
-Ans. This function returns the last index of the last occurrence of a or b in the string s. If a or b is not found, it returns -1.
 
-2. How would you improve it?
-Ans. I would improve it by adding type guards, string in-built methods (better readability) and removing the redundant if statements.
+   Ans. This function returns the last index of the last occurrence of a or b in the string s. If a or b is not found, it returns -1.
+
+3. How would you improve it?
+
+   Ans. I would improve it by adding type guards, string in-built methods (better readability) and removing the redundant if statements.
 
 ```js
 
